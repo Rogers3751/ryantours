@@ -1,6 +1,6 @@
 body{
 font-style: italic;
-font-size: 25px;
+font-size: 30px;
 background: url(https://c402277.ssl.cf1.rackcdn.com/photos/18330/images/hero_full/Mountain_Gorilla_Silverback_WW22557.jpg?1576515753);
 width: 100%, 100}
 
@@ -8,10 +8,18 @@ h2 {
 color: #042d59;
 }
 h1 {
-  color: white;
+  color: #053b4a;
   font-size: 50px;
   margin: 0px;
   text-align: center;
+}
+ol {
+  color: #a30740;
+  font-size: 35px;
+}
+ul {
+  color: white;
+  font-style: normal;
 }
 table {
   margin: 3%;
